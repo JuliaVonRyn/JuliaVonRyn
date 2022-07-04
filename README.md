@@ -1,9 +1,10 @@
- ## Olá, me chamo Julia !
- ### Bem vindo ao meu perfil GitHub 
+ ## Oie, me chamo Julia !
+ ### Bem vindo(a) ao meu perfil GitHub 
 
 
-- ✨Procurando aprender a progamar novas linguagens
-- 📚Sou aluna da aulura
-- 📫 entre em contato comigo através do meu email: Julia.ryn@escola.pr.gov.br
+- ✨ Procuro aprender a progamar novas linguagens
+- 📚 Sou aluna da alura
+- 📫 Entre em contato comigo através do meu email: Julia.ryn@escola.pr.gov.br
 
-![tenor (1)](https://user-images.githubusercontent.com/106750307/177193383-d940b6b6-4259-46ce-a0d3-bdea6bf25e23.gif)
+![tenor (2)](https://user-images.githubusercontent.com/106750307/177193956-e7ba5fec-0a82-4390-ae06-e8808d369a65.gif)
+
